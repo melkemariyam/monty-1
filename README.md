@@ -1,7 +1,7 @@
 C - Stacks, Queues - LIFO, FIFO
 
 0. push, pall
-
+sdsadsafdfg
 1. pint
 
 2. pop
